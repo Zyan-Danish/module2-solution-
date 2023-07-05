@@ -25,6 +25,7 @@
 		@media (min-width: 992px){
 			.heading{
 				text-align: center;
+				font-size: 175%;
 		}
 			.sub-heading{
 				position: relative;
@@ -34,7 +35,8 @@
 				border-bottom: solid;
 				border-color: black;
 				border-width: 1px;
-				float: right;			
+				float: right;
+				font-size: 125%;
 			}
 			.box{
 				border-style: solid;
@@ -50,6 +52,7 @@
 		@media (min-width: 768px) and (max-width: 991px){
 			.heading{
 				text-align: center;
+				font-size: 175%;
 		}
 			.sub-heading{
 				position: relative;
@@ -59,7 +62,8 @@
 				border-bottom: solid;
 				border-color: black;
 				border-width: 1px;
-				float: right;			
+				float: right;
+				font-size: 125%;
 			}
 			.box{
 				border-style: solid;
@@ -80,17 +84,19 @@
         @media (max-width: 767px){
         	.heading{
         		text-align: center;
+			font-size: 175%;
         	}
         	.sub-heading{
         		float: right;
         		position: relative;
-				border-left: solid;
-				border-width: 1px;
-				border-color: black;
-				border-bottom: solid;
-				border-color: black;
-				border-width: 1px;
-				float: right;
+		        border-left: solid;
+			border-width: 1px;
+			border-color: black;
+			border-bottom: solid;
+			border-color: black;
+			border-width: 1px;
+			float: right;
+			font-size: 125%;
         	}
         	.box{
         		border-style: solid;
